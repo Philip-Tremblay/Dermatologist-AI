@@ -3,7 +3,7 @@ CNN predicts skin cancer lesion type from image. Uses a torchvision pretrained n
 
 Below is the original Readme for this project from Udacity.
 
-
+-----------------------------------------
 
 [//]: # (Image References)
 
