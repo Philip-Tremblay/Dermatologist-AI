@@ -1,7 +1,7 @@
 # Dermatologist-AI
 CNN predicts skin cancer lesion type from image. Uses a torchvision pretrained network and transfer learning.
 
-Below is the original Readme for this project from Udacity.
+Below is the original Readme for this project from Udacity. I am mostly using this as a way to get my feet wet with github.  :)
 
 -----------------------------------------
 
